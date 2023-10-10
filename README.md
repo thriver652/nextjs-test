@@ -1,3 +1,4 @@
+```markdown
 # Next.js Test
 
 A test project simulating a dashboard using Next.js, TypeScript, and mock API routes.
@@ -19,6 +20,7 @@ A test project simulating a dashboard using Next.js, TypeScript, and mock API ro
 2. Install dependencies:
    ```bash
    npm install
+   ```
 
 ## Objective:
 
@@ -57,3 +59,57 @@ Once you've completed the tasks:
    - Any additional notes or comments you'd like to add about your submission.
 
 Thank you for participating in this test! We're excited to review your work.
+
+**Note:**
+I have made changes in the following directories:
+- `/SubscriptionUpgrades`
+- `/UserLoginActivity`
+- `/UserSignUp`
+```
+```markdown
+4. Ensure that the project is well-documented. Include a README.md file that provides clear instructions on how to run the application locally.
+
+## How to Run the Application Locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone <your_repository_url>
+   cd <your_project_directory>
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the application:
+
+   ```bash
+   npm run dev
+   ```
+
+   This will start the development server, and you can access the application at [http://localhost:3000](http://localhost:3000).
+
+4. Open your web browser and navigate to the provided URL to interact with the dashboard.
+
+## Additional Notes:
+
+- **Styling:** The styling of the application is implemented using styled-components, ensuring a consistent and visually appealing design.
+
+- **TypeScript:** TypeScript is utilized for type safety, providing a more robust development experience and reducing potential runtime errors.
+
+- **Data Fetching:** The application uses `getStaticProps` or `getServerSideProps` for efficient data fetching, enhancing performance and providing a better user experience.
+
+- **Error Handling:** Proper error handling is implemented, ensuring that the application gracefully handles invalid user IDs or missing data.
+
+- **Responsiveness:** The layout is designed to be responsive, providing a seamless user experience across different devices and screen sizes.
+
+Thank you for reviewing my submission. If you have any questions or feedback, feel free to reach out.
+
+Best regards,
+[Your Name]
+```
+
+This addition to the README.md provides instructions on running the application locally, highlights key aspects of the project, and invites feedback from the reviewer. Ensure to replace `<your_repository_url>` and `[Your Name]` with the actual repository URL and your name, respectively.
