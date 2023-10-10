@@ -89,7 +89,7 @@ I have made changes in the following directories:
    npm run dev
    ```
 
-   This will start the development server, and you can access the application at [http://localhost:3000](http://localhost:3000).
+   This will start the development server, and you can access the application at [http://localhost:3000](http://localhost:<your-server-number>(3000 or 3001 or 3002)).
 
 4. Open your web browser and navigate to the provided URL to interact with the dashboard and as provided above you can navigate to
 
