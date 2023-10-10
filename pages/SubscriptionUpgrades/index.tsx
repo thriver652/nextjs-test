@@ -18,6 +18,7 @@ const SubscriptionUpgrade = ({ SubscriptionUpgrades }) => {
             <h3>{indices.userId}</h3>
             <h3>{indices.oldPlan}</h3>
             <h3>{indices.newPlan}</h3>
+            
             <h3>{indices.upgradeDate}</h3>
           </a>
         </div>
