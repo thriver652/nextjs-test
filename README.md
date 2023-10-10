@@ -1,4 +1,4 @@
-```markdown
+```
 # Next.js Test
 
 A test project simulating a dashboard using Next.js, TypeScript, and mock API routes.
@@ -67,7 +67,6 @@ I have made changes in the following directories:
 - `/UserSignUp`
 ```
 ```markdown
-4. Ensure that the project is well-documented. Include a README.md file that provides clear instructions on how to run the application locally.
 
 ## How to Run the Application Locally:
 
