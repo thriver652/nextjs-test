@@ -5,13 +5,13 @@ A test project simulating a dashboard using Next.js, TypeScript, and mock API ro
 
 ## API Endpoints
 
-- **User Signups**: `/api/signups`
+- User Signups: `/api/signups`
   Returns a list of user signups with an `id`, `name`, `email`, and `signupDate`.
 
-- **User Login Activity**: `/api/logins`
+- User Login Activity: `/api/logins`
   Returns a list of user login activities with `userId`, `date`, and `device`.
 
-- **Subscription Upgrades**: `/api/upgrades`
+- Subscription Upgrades: `/api/upgrades`
   Returns a list of subscription upgrades with `userId`, `oldPlan`, `newPlan`, and `upgradeDate`.
 
 ## Setup
@@ -74,7 +74,7 @@ I have made changes in the following directories:
 1. Clone the repository:
 
    ```bash
-   git clone <your_repository_url>
+   git clone https://github.com/thriver652/nextjs-test
    cd <your_project_directory>
    ```
 
@@ -92,24 +92,15 @@ I have made changes in the following directories:
 
    This will start the development server, and you can access the application at [http://localhost:3000](http://localhost:3000).
 
-4. Open your web browser and navigate to the provided URL to interact with the dashboard.
+4. Open your web browser and navigate to the provided URL to interact with the dashboard and as provided above you can navigate to
 
-## Additional Notes:
-
-- **Styling:** The styling of the application is implemented using styled-components, ensuring a consistent and visually appealing design.
-
-- **TypeScript:** TypeScript is utilized for type safety, providing a more robust development experience and reducing potential runtime errors.
-
-- **Data Fetching:** The application uses `getStaticProps` or `getServerSideProps` for efficient data fetching, enhancing performance and providing a better user experience.
-
-- **Error Handling:** Proper error handling is implemented, ensuring that the application gracefully handles invalid user IDs or missing data.
-
-- **Responsiveness:** The layout is designed to be responsive, providing a seamless user experience across different devices and screen sizes.
-
-Thank you for reviewing my submission. If you have any questions or feedback, feel free to reach out.
+   - `/SubscriptionUpgrades`
+   - `/UserLoginActivity`
+   - `/UserSignUp`
+    
+   
 
 Best regards,
-[Your Name]
+Sai Praneeth
 ```
 
-This addition to the README.md provides instructions on running the application locally, highlights key aspects of the project, and invites feedback from the reviewer. Ensure to replace `<your_repository_url>` and `[Your Name]` with the actual repository URL and your name, respectively.
