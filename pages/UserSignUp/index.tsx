@@ -1,19 +1,30 @@
 import React from "react";
+import {
+  Container,
+  Main,
+  Title,
+  Description,
+  CodeTag,
+} from "../../components/sharedstyles";
+import Link from "next/link";
 
 const Index = ({ index }) => {
   return (
-    <div>
+    <Container>
       {index.map((indices) => (
         <div key={indices.id}>
-          <a >
-            <h3>{indices.id}</h3>
-            <h3>{indices.name}</h3>
-            <h3>{indices.email}</h3>
-            <h3>{indices.signupDate}</h3>
-            </a>
+          <a>
+            <h3>ID No {indices.id}</h3>
+            <h3>Name of the User : {indices.name}</h3>
+            <h3>Email ID of the User : {indices.email}</h3>
+            <h3>Sign Up Date of the User : {indices.signupDate}</h3>
+          </a>
         </div>
       ))}
-    </div>
+      <h1 style={{ color: "blue" }}>
+        <Link href="/">Go back Home</Link>
+      </h1>
+    </Container>
   );
 };
 
