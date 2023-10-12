@@ -21,7 +21,7 @@ A test project simulating a dashboard using Next.js, TypeScript, and mock API ro
    ```bash
    npm install
    ```
-##Screenshots of the above project:
+## Screenshots of the project:
 
 
 ![Screenshot 2023-10-12 at 3 09 47 PM](https://github.com/thriver652/nextjs-test/assets/74093651/c05931cd-aa18-4afd-af4b-5c0d2dbe9ce4)
