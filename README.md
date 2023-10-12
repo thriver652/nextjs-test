@@ -21,6 +21,14 @@ A test project simulating a dashboard using Next.js, TypeScript, and mock API ro
    ```bash
    npm install
    ```
+##Screenshots of the above project:
+
+
+![Screenshot 2023-10-12 at 3 09 47 PM](https://github.com/thriver652/nextjs-test/assets/74093651/c05931cd-aa18-4afd-af4b-5c0d2dbe9ce4)
+![Screenshot 2023-10-12 at 3 09 59 PM](https://github.com/thriver652/nextjs-test/assets/74093651/1bfca500-18e1-4362-9aa1-eeab378bb10c)
+![Screenshot 2023-10-12 at 3 10 13 PM](https://github.com/thriver652/nextjs-test/assets/74093651/2a45f6dd-a546-4cbe-9a11-3ea6c0c16281)
+![Screenshot 2023-10-12 at 3 10 26 PM](https://github.com/thriver652/nextjs-test/assets/74093651/8698b9e2-3009-4b46-bc5e-8c2f22614081)
+
 
 ## Objective:
 
